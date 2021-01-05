@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Audio</title>
+    <link>/</link>
+    <description>Recent content on Machine Learning Audio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 31 Dec 2020 02:58:25 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>  Get in touch  If you&#39;d like to register as a beta tester - send us a message with a link to your professional profile and we&#39;ll get back to you as soon as we can! Email  contact@mlaudio.io     Looking for careers? View all job openings.    Full name   Email   Phone   Message    Submit        </description>
+    </item>
+    
+    <item>
+      <title>mlaudio</title>
+      <link>/about/</link>
+      <pubDate>Thu, 31 Dec 2020 02:58:25 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Us Machine Learning Audio develops autonomous software agents that supercharge productivity for audio and music professionals.
+  Craig Edney Founder / CEO
+ Craig has over 10 years experience as a DJ, musician and audio engineer and is a professional developer (cloud, software, web) with experience in fintech and healthcare. He has studied at the University of Southampton WSI and worked with high profile academics such as Dame Professor Wendy Hall.</description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>/product/</link>
+      <pubDate>Thu, 31 Dec 2020 02:58:25 +0000</pubDate>
+      
+      <guid>/product/</guid>
+      <description>Future-focused Technical research     Perception  Interpretation and reasoning of sensory audio data, transforming into usable insights for audio and music professionals.       Classification  Algorithmic management of your audio files, so you never have to organise folder structures or write metadata again.       Prediction  Optimisations are made to your workflow, based on your interaction - helping to speed up your project completion time.</description>
+    </item>
+    
+  </channel>
+</rss>
